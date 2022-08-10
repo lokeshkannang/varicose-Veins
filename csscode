@@ -1,0 +1,873 @@
+.medfin{
+
+    float: left;
+
+    margin: 0px 90px 0px 180px;
+
+}
+
+.know{
+
+    float: left;
+
+}
+
+input{
+
+    border-color: white;
+
+    border-radius: 3px;
+
+    background-color: aliceblue;
+
+    padding: 10px;
+
+    width: 260px;
+
+}
+
+select{
+
+    border-color:  white;
+
+    border-radius: 3px;
+
+    background-color: aliceblue;
+
+    padding: 10px;
+
+    width: 283px;
+
+}
+
+.laser{
+
+    font-size: 40px ;
+
+    color: white;
+
+}
+
+.form{
+
+    background-color: steelblue;
+
+    height: 13cm;
+
+    width: 39.7cm;
+
+    
+
+}
+
+button{
+
+    padding:10px ;
+
+    background-color:#f20483;
+
+    border-color: #f20483;
+
+    border-radius: 7px;
+
+    width: 283px;
+
+}
+
+.tor{
+
+    float: left;
+
+    margin-left: 80px;
+
+}
+
+.risk{
+
+    color:steelblue;
+
+    font-size: 40px;
+
+    margin-left: 565px;
+
+    
+
+}
+
+h3{
+
+ padding: 0 38%;
+
+ color: black;   
+
+}
+
+hr{
+
+    background-color:steelblue;
+
+    height: 2px;
+
+    width: 800px;
+
+    margin-left: 300px;
+
+}
+
+.got{
+
+    
+
+    margin-left:565px ;
+
+}
+
+.no{
+
+    margin-left: 565px;
+
+    font-weight: 700;
+
+}
+
+.happy{
+
+    height: 3cm;
+
+    width: 41cm;
+
+    background-color:#eaf1f8;
+
+    
+
+}
+
+.hapy{
+
+    float: left;  
+
+    padding:10px  0 70px 250px;  
+
+}
+
+.across{
+
+    float: left;
+
+    color:#483D8B ;
+
+    font-size: 20px;
+
+}
+
+.hap{
+
+    float: left;
+
+    padding: 10px 0 50px 40px;
+
+}
+
+.sur{
+
+    float: left;
+
+    color:#483D8B ;
+
+    font-size: 20px;   
+
+}
+
+.hay{
+
+    float: left;
+
+    padding: 10px 0 50px 40px;
+
+}
+
+.save{
+
+    float: left;
+
+    color:#483D8B ;
+
+    font-size: 20px;
+
+}
+
+.hpy{
+
+    float: left;
+
+    padding: 10px 0 50px 40px;
+
+}
+
+.expert{
+
+    color:#483D8B ;
+
+    font-size: 20px;
+
+}
+
+.adv{
+
+    text-align: center;
+
+    color: #483D8B;
+
+    font-size: 35px;
+
+}
+
+.get{
+
+    text-align: center;
+
+    color: #483D8B;
+
+}
+
+.fri{
+
+    background-color:#eaf1f8;
+
+    width: 800px;
+
+}
+
+.las{
+
+    padding: 0 0  0 700px;
+
+    float: left;
+
+    color: steelblue;
+
+}
+
+.trade{
+
+    float: left;
+
+    padding: 0 0 0 90px;
+
+}
+
+.mini{
+
+    padding: 0 0 0 440px;
+
+    float: left;
+
+    color: #483D8B;
+
+}
+
+.t{
+
+    float: left;
+
+    padding: 0 0  0 160px;
+
+    color: greenyellow;
+
+}
+
+.w{
+
+    float: left;olor: greenyellow;
+
+    padding: 0 0  0 195px;
+
+    color: red;
+
+    
+
+}
+
+.cut{
+
+    float: left;
+
+    padding: 0 0 0 440px;
+
+    color: #483D8B;
+
+}
+
+.ww{
+
+    float: left;
+
+    padding: 0 0  0 185px;
+
+    color: red;
+
+    
+
+}
+
+.tt{
+
+    float: left;
+
+    padding: 0 0  0 195px;
+
+    color: greenyellow;
+
+    
+
+}
+
+.same   {
+
+    padding: 0 0 0 440px;
+
+    float: left;
+
+    color: #483D8B;
+
+}
+
+.ttt{
+
+    float: left;
+
+    padding: 0 0  0 160px;
+
+    color: greenyellow;
+
+    
+
+}
+
+.www{
+
+    float: left;
+
+    padding: 0 0  0 195px;
+
+    color: red;
+
+}
+
+.post{
+
+    padding: 0 0 0 440px;
+
+    float: left;
+
+    color: #483D8B;
+
+}
+
+.mal{
+
+    float: left;
+
+    padding: 0 0  0 155px;
+
+    color: steelblue;
+
+    
+
+}
+
+.hih{
+
+    float: left;
+
+    padding: 0 0  0 155px;
+
+    
+
+}
+
+.recover{
+
+    padding: 0 0 0 440px;
+
+    float: left;
+
+    color: #483D8B;
+
+}
+
+.day{
+
+    float: left;
+
+    padding: 0 0  0 205px;
+
+    color: steelblue;
+
+    
+
+}
+
+.week{
+
+    float: left;
+
+    padding: 0 0  0 150px;
+
+    
+
+}
+
+.blood{
+
+    padding: 0 0 0 440px;
+
+    float: left;
+
+    color: #483D8B;
+
+}
+
+.non{
+
+    float: left;
+
+    padding: 0 0  0 195px;
+
+    color: steelblue;
+
+}
+
+.hi{
+
+    float: left;
+
+    padding: 0 0  0 105px;
+
+    
+
+}
+
+.text-center {
+
+    text-align: center;
+
+    
+
+}   
+
+.get{
+
+    color:black;
+
+}    
+
+.call{
+
+    color:white;
+
+    background-color: steelblue;
+
+    border-color: steelblue;
+
+}
+
+.pink{
+
+    text-align: center;
+
+    font-size: 25px;
+
+    color: #f20483;
+
+}
+
+.what{
+
+    height: 5cm;
+
+    width: auto;
+
+    background-color:rgb(225, 232, 242);    
+
+    
+
+}
+
+.with{
+
+    color:#f20483;
+
+    margin-left: 10cm; 
+
+}
+
+.wih{
+
+    color: white;
+
+    font-size: 13px;
+
+    margin-left: 10cm;  
+
+    width: 200px;
+
+}
+
+.best{
+
+    float: right;
+
+    color: steelblue;
+
+    font-size: 20px;
+
+    margin-right: 10px 5px;
+
+    
+
+}
+
+.freq{
+
+    color: #483D8B;
+
+    margin-left: 14cm;
+
+}
+
+.on{
+
+    background-color: white;
+
+    border-color: rgb(167, 157, 157);
+
+    margin-left:10cm ;
+
+    width: 20cm;
+
+    color: #483D8B;
+
+}
+
+.you{
+
+    height: 15cm;
+
+    width: auto;
+
+    background-color:rgb(225, 232, 242);
+
+    
+
+}
+
+.us{
+
+    color: steelblue;
+
+    font-size: 30px;
+
+    margin-left:15cm;
+
+}
+
+.ele{
+
+    margin-left: 14cm;
+
+}
+
+.twe{
+
+    margin-left: 85px;
+
+}
+
+.thir{
+
+    margin-left: 85px;
+
+}
+
+.exp{
+
+    float: left;
+
+    margin-left: 13.5cm;
+
+    font-weight: 700;
+
+}
+
+.guar{
+
+    float: left;
+
+    margin-left: 40px;
+
+    font-weight: 700;
+
+}
+
+.per{
+
+    float: right;
+
+    margin-right: 530px;
+
+    font-weight: 700;
+
+}
+
+.doc{
+
+    float: left;
+
+    margin-left: 14cm;
+
+}
+
+.pri{
+
+    float: left;
+
+    margin-left: 110px;
+
+}
+
+.ass{
+
+    float: right;
+
+    margin-right: 530px;
+
+}
+
+.four{
+
+    margin-left: 14cm;
+
+}
+
+.five{
+
+    margin-left: 85px;
+
+}
+
+.six{
+
+    margin-left: 85px;
+
+}
+
+.ini{
+
+    float: left;
+
+    margin-left: 13cm;
+
+    font-weight: 700;
+
+}
+
+.ins{
+
+    float: left;
+
+    margin-left: 40px;
+
+    font-weight: 700;
+
+}
+
+.has{
+
+    float: right;
+
+    margin-right: 520px;
+
+    font-weight: 700;
+
+}
+
+.fac{
+
+    float: left;
+
+    margin-left: 14cm;
+
+}
+
+.ist{
+
+    float: left;
+
+    margin-left: 110px;
+
+}
+
+.nce{
+
+    float: right;
+
+    margin-right: 530px; 
+
+}
+
+.to{
+
+    color: white;
+
+    margin-left: 41%;
+
+    
+
+}
+
+.free{
+
+    color:steelblue;
+
+    font-size: 30px;
+
+    margin-left: 8cm;
+
+    
+
+}
+
+.go{
+
+    color: steelblue;
+
+    margin-left: 300px;
+
+    
+
+}
+
+.off{
+
+    background-color: steelblue;
+
+    color: white;
+
+    border-color: steelblue;
+
+   
+
+    
+
+}
+
+  
+
+.thair{
+
+    margin-left: 8cm;
+
+    color: white;
+
+    width: 200px;
+
+    
+
+    
+
+}
+
+.coll{
+
+    border-color: steelblue;
+
+    background-color: steelblue;
+
+    color: white;
+
+    width: 200px;
+
+    
+
+}       
+
+.time{
+
+    float:right;
+
+    margin-right: 450px;
+
+}
+
+.the{
+
+    height: 4cm;
+
+    background-color:rgb(225, 232, 242);
+
+    
+
+}
+
+.cal{
+
+    color: #483D8B;
+
+    font-size: 25px;
+
+    text-align: center;
+
+}
+
+.fin{
+
+    background-color: rgb(169, 184, 184);
+
+    color: white;
+
+}
+
+.more{
+
+    margin-left: 14.2cm;
+
+    color: white;
+
+    width: 200px;
+
+    
+
+}
+
+.sam{
+
+    border-color: steelblue;
+
+    background-color: steelblue;
+
+    color: white;
+
+    width: 200px;
+
+}
+
+.para{
+
+    background-color: steelblue;
+
+    color: white;
+
+    height: .8cm;
+
+    text-align: center;
+
+}
+
+.wid{
+
+    float: right;
+
+    margin-right: 30px;
+
+}css 
