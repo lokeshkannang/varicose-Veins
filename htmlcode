@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>project1</title>
+
+<link rel="stylesheet" href="/stylesheet1.css">
+
+</head>
+
+<body>
+
+    <div class="form">
+
+        <div class="medfin"><h1>MEDFIN</h1>
+
+            <p>BANGALORE|CHENNAI|HYDERBAD|PUNE|+10cities</p>
+
+            <p class="laser">Laser Treatment for Varicose<br> Veins in your city</p>
+
+            <img src="/p6img.webp" width="70">
+
+            <img src="/p5img.webp" width="70">
+
+            <img src="/p4img.webp" width="70">
+
+            <img src="/p3img.webp" width="70">
+
+            <img src="/p2img" width="70">
+
+        
+
+        
+
+        
+
+        
+
+        </div>
+
+        <div class="know">
+
+            <img class="img1" src="/p1img.webp" width="70">
+
+            <h1>KNOW MORE</h1>
+
+            <p>COST ESTIMATE | TOP DOCTORS | LATEST TREATMENT</p>
+
+            <label  for="name">Name*</label><br>
+
+            <input type = "text" ; placeholder ="Enter your Name">  <br><br>
+
+            <label for="phonenumber"> Phone Number*</label><br>
+
+            <input type= "number" ;  placeholder ="Enter your Phone Number"><br><br>
+
+            <label for="city">City </label><br>
+
+            <select >
+
+                <option >Bangalore</option>
+
+                <option>Chennai</option>
+
+                <option>Vellore</option>
+
+            </select><br><br>
+
+            <button type="submit">SUBMIT</button>
+
+            <br>
+
+        </div>
+
+    </div>
+
+<img class="tor" src="/p19.img" width="240">
+
+<h2 class="risk">Risk free consultation</h2>
+
+<h3>
+
+    Money back guarantee | Free cancellation
+
+</h3>
+
+<hr>
+
+<p class="got">Get access to the latest, painless LASER treatment for Varicose Veins.</p>
+
+<p class="no">No Hospital Stay. No Cuts. No Stitches.</p>
+
+<div class="happy">
+
+    <img class="hapy" src="/p10.img" width="80">
+
+    <p class="across">30,000+ <br>Happy customers <br>across India</p>
+
+    <img class="hap" src="/p9.img" width="80">
+
+    <p class="sur">5,000+ <br> Surgeries sucessfully<br> completed</p>
+
+    <img class="hay" src="/p8.img" width="80">
+
+    <p class="save">Rs.12Cr+ <br> Saved on surgery<br>costs with Medfin</p>
+
+    <img class="hpy" src="/p7.img" width="80">
+
+    <p class="expert"><br>50+<br>Expert Medfin<br>Surgeons</p>
+
+</div>
+
+<br>
+
+<p class="adv">Advantages of LASER treatment for Varicose Veins</p>
+
+<p class="get">Get rid of varicose veins with the latest, Laser treatment </p><br>
+
+<hr class="fri">
+
+<P class="las">LASER <br>TREATMENT </P>
+
+<p class="trade">Traditional Varicose<br> Surgery</P><br><br><br><br>
+
+<hr class="fri"><br>
+
+<p class="mini">Minimally Invasive</p>
+
+<p class="t">T</p>
+
+<p class="w">W</p><br><br><br>
+
+<hr class="fri">
+
+<p class="cut">Cuts or stitches</p>
+
+<p class="ww">W</p>
+
+<p class="tt">T</p> <br><br><br>
+
+<hr class="fri">
+
+<p class="same">Same-day discharge</p>
+
+<p class="ttt">T</p>
+
+<p class="www">W</p> <br> <br><br>
+
+<hr class="fri" >
+
+<p class="post">Post Surgical Pain</p> 
+
+<p class="mal">Minimal</p>
+
+<p class="hih">High</p><br><br><br>
+
+<hr class="fri">
+
+<p class="recover">Recovery</p>
+
+<p class="day">Few days</p>
+
+<p class="week">Few weeks</p><br><br><br>
+
+<hr class="fri">
+
+<p class="blood">Blood Loss</p>
+
+<p class="non">No Blood Loss</p>
+
+<p class="hi">High Chances</p><br><br><br>
+
+<hr class="fri"><br><br><br><br>
+
+<div class="text-center">
+
+    <button class="get" type="GET A COST ESTIMATE">GET A COST ESTIIMATE</button>
+
+    <button  class="call" type="Call us on 7026200200">Call us on 7026200200</button>
+
+</div><br>
+
+<div class="pink">
+
+    <p>GET ACCESS TO THE BEST</p>
+
+    <h1>Experienced Varicose Veins<br> Specialists Near you!</h1>
+
+    <p>At just Rs.299/-</p>
+
+</div>
+
+<div class="what">
+
+    <ul class="best">
+
+        <li>Best Varicose Doctors Near You</li>
+
+        <li>Free Cost Estimate for Laser Treatment</li>
+
+        <li>Find out if your insurance covers your treatment</li>
+
+        <li>Get 0% interest EMI</li>
+
+    <li>More information about the latest Laser treatment for Varicose veins</li>    </ul>
+
+    <img class="wid" src="/p18.img" width="188">
+
+    <h1 class="with">What can Medfin <br>help you with?</h1>
+
+    <button class="wih">REQUEST A CALL BACK</button>
+
+    
+
+    
+
+</div><br><br><br>
+
+    
+
+    
+
+</div><br><br><br>
+
+<h2 class="freq">Frequently Asked Question about Varicose Veins</h2>
+
+<button class="on">What are the treatment options for Varicose Veins?</button><br><br>
+
+<button class="on">What happens if Varicose Veins are left untreated</button><br><br>
+
+<button class="on">What are the advantages of LASER treatment for Varicose Veins?</button><br><br>
+
+<button class="on">What can I expert after LASER treatment for Varciose Veins?</button><br><br>
+
+<div class="you">
+
+    <p class="us">Why you should choose Us</p><br>
+
+    <img class="ele" src="/p11.img"  width="80">
+
+    <img class="twe" src="/p12.img" width="80">
+
+    <img class="thir" src="/p13.img" width="80"><br>
+
+    <p class="exp">EXPERIENCED</p>
+
+    <P class="guar">GUARANTEED BEST</P>
+
+    <P class="per">PERSONAL</P> 
+
+    <p class="doc">DOCTORS</p>
+
+    <P class="pri">PRICES</P>
+
+    <P class="ass">ASSISTANT</P>
+
+    <img class="four" src="/p14.img"  width="80">
+
+    <img class="five" src="/p15.img" width="80">
+
+    <img class="six" src="/p16.img" width="80"><br>
+
+    <p class="ini">INTEREST-FREE EMI</p>
+
+    <p class="ins">INSURANCE</p>
+
+    <P class="has">HASSLE-FREE</P>
+
+    <p class="fac">FACILITY</p>
+
+    <P class="ist">ASSISTANCE</P>
+
+    <P class="nce">EXPERIENCE</P>
+
+    <br><br><br><br><br><br><br><br>    
+
+<button class="to">TALK TO AN EXPERT</button>
+
+</div>
+
+<img class="time" src="/p17.img" width="250">
+
+<p class="free">Interest-free EMI available<br class="ment">for Varicose Veins treatment</p>
+
+<ul class="go">
+
+    <li> Get well first, pay later</li><br>
+
+    <li>We will cover your surgery expenses and you can pay us<br>back in 3 to 9 instalments</li>
+
+    
+
+</ul>
+
+<button class="thair" type="KNOW MORE">KNOW MORE</button>
+
+<button  class="coll" type="Call us on 7026200200">Call us on 7026200200</button>   <br> <br><br><br><br>
+
+<div class="the">
+
+    <p class="cal">
+
+        High quality, Minimally Invasive LASER Treatment for<br>Varicose Veins At The Best Price Only 
+
+        At <span class="fin">Medfin</span>
+
+    </p>
+
+<button class="more" type="KNOW MORE">KNOW MORE</button>
+
+<button  class="sam" type="Call us on 7026200200">Call us on 7026200200</button>   <br> <br><br><br><br>
+
+</div>
+
+<p class="para" >Copyright 2021</p>
+
+</body>
+
+</html>
